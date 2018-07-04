@@ -1,0 +1,34 @@
+[
+    {
+        "skillName": "SerialExplosion",
+        "effectPath": "Prefabs/Effect/SerialExplosionObj"
+    },
+	{
+        "skillName": "CircleExplosion",
+        "effectPath": "Prefabs/Effect/44_RFX_Fire_HitSplat1"
+    },
+	{
+        "skillName": "MonsterHurt",
+        "effectPath": "Prefabs/Effect/MonsterHurt"
+    },
+	{
+        "skillName": "PlayerHurt",
+        "effectPath": "Prefabs/Effect/PlayerHurt"
+    },	
+	{
+        "skillName": "BossHurt",
+        "effectPath": "Prefabs/Effect/BossHurt"
+    },	
+	{
+        "skillName": "RedPotion",
+        "effectPath": "Prefabs/Effect/RedPotion"
+    },	
+	{
+        "skillName": "BluePotion",
+        "effectPath": "Prefabs/Effect/BluePotion"
+    },	
+	{
+        "skillName": "LevelUp",
+        "effectPath": "Prefabs/Effect/LevelUp"
+    }     
+]

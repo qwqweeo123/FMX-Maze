@@ -1,0 +1,51 @@
+[{
+		"Name": "EnemyBoss1",
+		"HP": 600	,
+		"MP": 100,
+		"Atk": 100,
+		"Def": 20,
+		"Spd": 10,
+		"CtExp": 50,
+		"Items":[8,9,10]
+	},
+	{
+		"Name": "EnemyKnight",
+		"HP": 200,
+		"MP": 100,
+		"Atk": 60,
+		"Def": 20,
+		"Spd": 10,
+		"CtExp": 50,
+		"Items":[1,2]
+	},
+	{
+		"Name": "EnemyMagician",
+		"HP": 200,
+		"MP": 100,
+		"Atk": 60,
+		"Def": 20,
+		"Spd": 10,
+		"CtExp": 50,
+		"Items":[1,2]
+	},
+	{
+		"Name": "EnemySword",
+		"HP": 200,
+		"MP": 100,
+		"Atk": 60,
+		"Def": 20,
+		"Spd": 10,
+		"CtExp": 50,
+		"Items":[1,2]
+	},
+	{
+		"Name": "EnemyDBSword",
+		"HP": 200,
+		"MP": 100,
+		"Atk": 60,
+		"Def": 20,
+		"Spd": 10,
+		"CtExp": 50,
+		"Items":[1,2]
+	}
+]

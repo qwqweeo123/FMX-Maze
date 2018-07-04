@@ -1,0 +1,42 @@
+[
+    {
+		"audioName": "DoubleSwordAttack",
+		"audioPath": "Audios/DoubleSwordAttack"
+	},
+	{
+		"audioName": "SwordAttack",
+		"audioPath": "Audios/SwordAttack3"
+	},
+	{
+		"audioName": "BigSwordAttack",
+		"audioPath": "Audios/WarriorAttack"
+	},
+	{
+		"audioName": "MagicAttack",
+		"audioPath": "Audios/MagicAttack"
+	},
+	{
+		"audioName": "HandAttack",
+		"audioPath": "Audios/HandAttack"
+	},
+	{
+		"audioName": "PlayerMove",
+		"audioPath": "Audios/PlayerMove"
+	},	
+	{
+		"audioName": "DoubleSweep",
+		"audioPath": "Audios/DoubleSweep"
+	},
+	{
+		"audioName": "BoomWithStone",
+		"audioPath": "Audios/BoomWithStone"
+	},
+	{
+		"audioName": "LevelUp",
+		"audioPath": "Audios/LevelUp"
+	},
+	{
+		"audioName": "DrinkPotion",
+		"audioPath": "Audios/DrinkPotion"
+	}
+]

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4e1cbbb10de354d4ba304e1cb0f578be
+timeCreated: 1508944070
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mazeroom: {fileID: 1828568251839704, guid: 1db4e2650f6f4e548b2d856a143500b1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
